@@ -23,3 +23,5 @@ config/mail.yml
 config/email_config.rb
 config/database.yml
 bin/*
+public/ebooks/*
+public/covers/*
